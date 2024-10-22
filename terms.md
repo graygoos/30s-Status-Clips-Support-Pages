@@ -1,10 +1,10 @@
-# Terms of Use for Video Splitter App
+# Terms of Use for 30s Status Clips for WhatsApp
 
 *Last updated: 05/10/2024*
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the Video Splitter App ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.
+By downloading, installing, or using the 30s Status Clips for WhatsApp ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.
 
 ## 2. Description of Service
 
