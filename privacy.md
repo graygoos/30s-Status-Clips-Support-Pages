@@ -1,10 +1,10 @@
-# Privacy Policy for Video Splitter App
+# Privacy Policy for 30s Status Clips for WhatsApp
 
 *Last updated: 05/10/2024*
 
 ## 1. Introduction
 
-This Privacy Policy explains how Femi Aliu collects, uses, and shares information about you when you use our Video Splitter App ("the App").
+This Privacy Policy explains how Femi Aliu collects, uses, and shares information about you when you use our 30s Status Clips for WhatsApp ("the App").
 
 ## 2. Information We Collect
 
