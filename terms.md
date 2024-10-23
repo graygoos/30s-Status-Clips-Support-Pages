@@ -1,6 +1,6 @@
 # Terms of Use for 30s Status Clips for WhatsApp
 
-*Last updated: 05/10/2024*
+*Last updated: 22/10/2024*
 
 ## 1. Acceptance of Terms
 
