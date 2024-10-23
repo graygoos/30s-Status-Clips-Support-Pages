@@ -1,6 +1,6 @@
 # Privacy Policy for 30s Status Clips for WhatsApp
 
-*Last updated: 05/10/2024*
+*Last updated: 23/10/2024*
 
 ## 1. Introduction
 
@@ -20,7 +20,9 @@ All video processing is done locally on your device. We do not transmit or store
 
 ## 5. Third-Party Services
 
-The App does not integrate with any third-party services that would have access to your data.
+We use TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using the App and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at [TelemetryDeck Privacy Policy](https://telemetrydeck.com/privacy).
+
+The App does not integrate with any other third-party services that would have access to your data.
 
 ## 6. Changes to This Privacy Policy
 
